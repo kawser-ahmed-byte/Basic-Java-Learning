@@ -10,7 +10,7 @@ public class Collectionsdemo
         ArrayList al = new ArrayList();
         System.out.println("Initial size of array list: " +  al.size());
 
-        // add elements to the array list
+        //add elements to the array list
         al.add("C");
         al.add("A");
         al.add("E");
