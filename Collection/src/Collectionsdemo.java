@@ -21,7 +21,7 @@ public class Collectionsdemo
 
         System.out.println("Size of array list after additions: " +  al.size());
 
-        // display the array list
+        //display the array list
         System.out.println("Contents of array list: " + al);
                     // iterate
         for(int i=0;i<al.size();i++)
